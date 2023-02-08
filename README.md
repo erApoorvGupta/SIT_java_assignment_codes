@@ -1,8 +1,15 @@
-# SIT_java_assignment_codes
-SEM4 assignments of JAVA
+# SIT Java Assignment Codes
+~By Apoorv Gupta
 
-![JAVA img](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png)
-## -> These are my personalised version of Java codes for Flexi-Credit Course at SIT_Pune
+<p align="center">
+  <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png">
+</p>
 
-[Assignment 1: ](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_1) Testing out all input methods and a calculator program with various functions.
-[Assignment 2: ](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_2) Exploring array through even-odd sorting, finding distance between smallest numbers and conversions to-from arraylist.
+## Welcome to the SIT Flexi-Credit Java Course!
+
+In this repository, you'll find my personalized Java codes for the assignments in the course.
+
+Here are the links to the assignments:
+
+1. [Assignment 1](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_1) - Testing input methods and a calculator program with various functions.
+2. [Assignment 2](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_2) - Exploring arrays through even-odd sorting, finding the distance between the smallest numbers, and converting to and from ArrayLists.
