@@ -15,3 +15,5 @@ Here are the links to the assignments:
 2. [Assignment 2](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_2) - Exploring arrays through even-odd sorting, finding the distance between the smallest numbers, and converting to and from ArrayLists.
 3. [Assignment 3](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_3) - Creating a Student Database and perform funtions to modify data base.
 4. [Assignment 4](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_4) - Creating a Deck of cards and performing several actions on them. Each card is a vector object.
+5. [Assignment 5](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_5) - <br>1) Inheritance on shape classes <br> 2) Salary slip creation using inheritance.
+6. [Assignment 6](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_6) - Created custom package for implementing fixed and growable Stacks. (coded from scratch)
