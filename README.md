@@ -17,3 +17,5 @@ Here are the links to the assignments:
 4. [Assignment 4](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_4) - Creating a Deck of cards and performing several actions on them. Each card is a vector object.
 5. [Assignment 5](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_5) - <br>1) Inheritance on shape classes <br> 2) Salary slip creation using inheritance.
 6. [Assignment 6](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_6) - Created custom package for implementing fixed and growable Stacks. (coded from scratch)
+7.
+8. [Assignment 8](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_8) - Testing Exception on input from command line as well as making custom exceptions.
