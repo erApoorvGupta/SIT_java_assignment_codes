@@ -17,5 +17,8 @@ Here are the links to the assignments:
 4. [Assignment 4](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_4) - Creating a Deck of cards and performing several actions on them. Each card is a vector object.
 5. [Assignment 5](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_5) - <br>1) Inheritance on shape classes <br> 2) Salary slip creation using inheritance.
 6. [Assignment 6](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_6) - Created custom package for implementing fixed and growable Stacks. (coded from scratch)
-7.
+7. [Assignment 7](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_7) - Performing Functions onRational Numbers with inputs from command line and handling exceptions.
 8. [Assignment 8](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_8) - Testing Exception on input from command line as well as making custom exceptions.
+9. [Assignment 9](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_9) - A program that connects to sql data base and perfrms basic queries such as insert update show.
+10. [Assignment 10](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_10) - A program to perform various function of Threads in Java.
+
