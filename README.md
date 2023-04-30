@@ -21,4 +21,18 @@ Here are the links to the assignments:
 8. [Assignment 8](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_8) - Testing Exception on input from command line as well as making custom exceptions.
 9. [Assignment 9](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_9) - A program that connects to sql data base and perfrms basic queries such as insert update show.
 10. [Assignment 10](https://github.com/erApoorvGupta/SIT_java_assignment_codes/tree/main/Assignment_10) - A program to perform various function of Threads in Java.
+---
 
+<br>
+
+## Author (Apoorv Gupta)
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/C4D03AQGnuUL7_6PwZg/profile-displayphoto-shrink_400_400/0/1668101722145?e=1688601600&v=beta&t=V6L8OYRL8tKNIE4MywV5kTVdfbJxTNcs099GXTWTk1g">
+</p>
+
+<br>
+
+## Mentor (Dr. Kalyani Kadam)
+<p align="left">
+  <img src="https://www.linkpicture.com/q/Mam.jpg" type="image">
+</p>
